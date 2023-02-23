@@ -1,5 +1,5 @@
 
-public class Lab {
+public class Lab { 
     /**
      * The Math class contains utility methods that can be used for calculations like exponents, rounding, random
      * number generation, etc. The point of this challenge, however, is not strictly to use the Math class - there are
@@ -20,6 +20,13 @@ public class Lab {
      * @return return a^b using the pow() method of the Math class.
      */
     public double mathPow(double a, double b){
-        return 0;
+        Math.pow(2, 2);
+        Math.pow(3, 4);
+        
+        return (Math.pow(a, b));
+            
+        }
+    
     }
-}
+            
+    
